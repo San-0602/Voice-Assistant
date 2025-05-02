@@ -26,7 +26,6 @@ A simple and fun Android application that converts **voice input to text** using
 
 1. Clone the repository:
    -bash
-   -git clone https://github.com/your-username/voice-recognition-app.git
    -Open the project in Android Studio.
    -Build and run it on a physical Android device.
 
